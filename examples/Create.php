@@ -26,7 +26,7 @@
 * PrestaShop Webservice Library
 * @package PrestaShopWebservice
 */
-
+define("prueba",true);
 // Here we define constants /!\ You need to replace this parameters
 define('DEBUG', true);
 define('PS_SHOP_PATH', 'http://www.myshop.com/');
